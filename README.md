@@ -1,24 +1,27 @@
-# vue-weather
+# Weather App
 
-## Project setup
-```
-npm install
-```
+Followed Tyler Pott's [Vue Weather App tutorial](https://www.youtube.com/watch?v=JLc-hWsPTUY&t=246s) on YouTube and learned how to build my first project on Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of Contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Overview](#overview)
+  - [Goals](#goals)
+  - [Screenshots](#screenshots)
+  - [Built with](#built-with)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Overview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Learning Goals
+
+- Interact with OpenWeatherMap API in Vue
+- Data binding (one-way & two-way)
+- Create event listeners
+- Conditional display
+
+### Screenshot
+<img src="./src/assets/vue-weather-ss.png" alt="Vue Weather Screenshot" width="60%"/>
+
+### Built with
+
+- HTML, CSS, JavaScript, Vue
+
